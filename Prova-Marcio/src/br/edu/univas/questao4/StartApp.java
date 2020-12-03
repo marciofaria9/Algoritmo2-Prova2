@@ -1,4 +1,4 @@
-package be.edu.univas.questao4;
+package br.edu.univas.questao4;
 
 import java.util.Scanner;
 
